@@ -104,4 +104,4 @@ theme: july
 deploy:
   type: git
   repo: git@github.com:ztx8024/ZTX8024.github.io.git
-  branch: main
+  branch: master
